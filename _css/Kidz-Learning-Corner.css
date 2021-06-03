@@ -1,0 +1,124 @@
+body.home {
+	font-family: Arial, Helvetica, sans-serif;
+	background-image: url("vintageSpa.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+		
+#myHeader {
+	text-align:left;
+	color: DeepSkyBlue;
+	font-size: 50px;
+	text border: 
+}
+
+.h1 {
+	color: DeepSkyBlue;
+	font-size: 30px;
+}
+
+.h2  {
+	color: #000080;
+	font-size: 30px;
+}
+
+p.homeParagraph {
+	color: #605856;
+	font-size: 19px;
+}
+
+#wrapper {
+	margin: auto;
+	width: 1000px;
+	height: 720px;
+	text-align: center;
+}
+
+h1, h2, p {
+	color: black;
+}
+
+nav {
+	position: centered;
+	display: centered;
+	background-color:;
+	padding: 1px;
+	height: 50px;
+}
+
+ul {
+	list-style-type: none;
+    margin: 1px;
+    padding: 1px;
+    overflow: hidden;
+	display: inline-block;
+}
+
+li {
+	float: left;
+    display: block;
+    color: white;
+    text-align: center;
+	    padding: 3px 20px;
+    text-decoration: none;
+	border: 5px solid gray;
+	border-radius: 8px;
+}
+
+/* 
+li.quiz {
+	float: left;
+    display: block;
+    color: white;
+    text-align: ;
+	    padding: 3px 20px;
+    text-decoration: none;
+	border: 5px solid gray;
+	border-radius: 8px;
+}*/
+
+body, html {
+	height: 100%;
+}
+
+#myCanvas {
+	cursor: crosshair;
+    /*position: fixed;*/
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+	height: 800px;
+}
+
+
+section.description1{
+	position: centered;
+	margin: auto;
+	width: 670px;
+	height: 550px;
+	background-color: white;
+	opacity: .8;
+	border: 5px solid black;
+	border-radius: 25px;
+}
+	
+.footer {
+	height:50px;
+	background-color:DeepSkyBlue;
+	text-align: center;
+	width:100%;
+	display: inline-block;
+}
+
+.letter{
+	font: arial  black 15px sans-serif;
+	font-weight: bold;
+
+}
