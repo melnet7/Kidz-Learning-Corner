@@ -3,8 +3,8 @@ window.onload = function() {
 	var ctx = myCanvas.getContext("2d");
     
     // Fill Window Width and Height
-    myCanvas.width = window.innerWidth;
-	myCanvas.height = window.innerHeight;
+    // myCanvas.width = window.innerWidth;
+	// myCanvas.height = window.innerHeight;
 	
 	// Set Background Color
     ctx.fillStyle="#fff";
